@@ -1,3 +1,3 @@
 # SetInterval
 
-A port of JavaScript's `setInterval` function into C++
+A port of JavaScript's `setInterval` & `setTimeout` functions into C++
